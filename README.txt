@@ -1,0 +1,1 @@
+Small example to read input from a PS USB pad
